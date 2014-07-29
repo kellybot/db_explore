@@ -3,22 +3,9 @@ db_explore
 
 small mysql explorer (not secure, for use on localhost only)
 
+!!!DO NOT USE ON THE OPEN INTERNET!!!
 
-
-
-
-HI!
-I MADE THIS PROGRAM VERY QUICKLY OUT OF 
-THE NECESSITY TO EXAMINE CHANGES IN SEVERAL 
-INTERACTING MYSQL TABLES. 
-
-BECAUSE I MADE IT HASTILY,
-IT IS VERY BUGGY, AND SENSITIVE DATA IS NOT HANDLED 
-IN A SECURE FASHION.
-
-!!!DO NOT USE ON THE OPEN INTERNET (I ONLY USE IT ON XAMPP)!!!
-
-That said, I found it useful for examining and making small changes in databases.
+I made it for examining and making small changes in databases, because my installation of phpMyAdmin wasn't working properly.
 Use at your own risk.
 
 KNOWN ISSUES:
